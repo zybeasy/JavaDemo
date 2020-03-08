@@ -6,7 +6,11 @@
 
     <groupId>com.zy</groupId>
     <artifactId>java-demmo</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>fuck</module>
+    </modules>
 
     <dependencies>
         <dependency>
